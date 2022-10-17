@@ -1,6 +1,6 @@
-#State pattern
+# State pattern
 
-##State pattern UML representation
+## State pattern UML representation
 ![img.png](img.png)
 
 ### Problem:
@@ -17,11 +17,11 @@ to be implemented by other concrete tool classes
 tools as you like hence so extensible and implement code specifics for mouse up and down. See the main class for use
 
 
-###Solution UML Representation
+### Solution UML Representation
 
 
 ### Application
 - Application: Implementing undo mechanism
 
 
-#[Exercise](./exercise/exe.md)
+# [Exercise](./exercise/exe.md)
