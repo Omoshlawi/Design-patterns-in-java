@@ -1,4 +1,4 @@
-##Examples of Behavioral patterns
+## Examples of Behavioral patterns
 
 - [Momento patterns](./momento/readMe.md) -> Captures and restore object internal state
 
