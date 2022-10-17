@@ -1,6 +1,6 @@
 # Momento Pattern
 
-###Memento pattern UML representation
+### Memento pattern UML representation
 ![img_1.png](img_1.png)
 
 ### Problem:
@@ -15,11 +15,11 @@
 - Add editor state object in the editor, ie use composition
 - For implementation details see th codes
 
-##UML representation
+## UML representation
 ![img.png](img.png)
 
 ### Application
 - Application: Implementing undo mechanism
 
 
-#[Exercise](./exercise/exe.md)
+# [Exercise](./exercise/exe.md)
