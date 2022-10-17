@@ -1,4 +1,4 @@
-#Exercise
+# Exercise
 
 In the bellow provided code is a
 DirectionService class. This is the class that powers our mapping
@@ -74,9 +74,9 @@ public enum TravelMode {
 
 ```
 
-#Solutions
+# Solutions
 
-###problems identified
+### problems identified
 - Bulk code due to too many if statements to check travel mode, this is both in both redirection and getEAT
 - Its ver hard to extend ie adding a new travel modes such as flying, or any other mode could lead to enormous
 change since you have to go to every block of code where traveling mode is compared and add the new modes
@@ -84,5 +84,5 @@ change since you have to go to every block of code where traveling mode is compa
 Check the code for reimplement solution using the state pattern
 
 
-#NB: in state patten the state is a data member/attribute of a context class, in other words a state is like an attribute of a class
+# NB: in state patten the state is a data member/attribute of a context class, in other words a state is like an attribute of a class
 With state pattern we create a class for all the modes which implements a traveling mode abstract/bas/interface for traveling mode with contractual methods for the traveling mode
