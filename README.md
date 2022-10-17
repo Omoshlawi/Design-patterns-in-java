@@ -26,5 +26,5 @@ also
 
 #### They are categorized in 3 namely:
 - **[Creation](./creational)** - _Provide a wat to create objects while hiding the creation logic rather than instantiating objects directly.This give the program more flexibility in deciding which objects need to be created for a given use-case_
-- **[Structural](./structural)** - _Is concerned with clas and object composition to obtain new functionalities and form larger structures_
-- **[Behavioural](./behavioural/readme.md)** - _Is concerned by communication between objects by identifying common communication patterns between objects._
+- **[Structural](./src/structural)** - _Is concerned with clas and object composition to obtain new functionalities and form larger structures_
+- **[Behavioural](./src/behavioural/readme.md)** - _Is concerned by communication between objects by identifying common communication patterns between objects._
